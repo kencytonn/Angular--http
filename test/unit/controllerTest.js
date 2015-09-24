@@ -18,7 +18,7 @@ describe('Bookstore controllers', function() {
 
 
         it('should return "books" model with 4 books', function() {
-            expect(scope.phones.length).toBe(4);
+            expect(scope.books.length).toBe(4);
         });
 
     });
