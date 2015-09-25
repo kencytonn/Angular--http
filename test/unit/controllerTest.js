@@ -8,7 +8,6 @@ describe('Bookstore controllers', function() {
 
     describe('BookController', function(){
         var scope, ctrl;
-
         beforeEach(module('Bookstore'));
 
         beforeEach(inject(function($controller) {
@@ -18,7 +17,7 @@ describe('Bookstore controllers', function() {
 
 
         it('should return "books" model with 4 books', function() {
-            expect(scope.books.length).toBe(4);
+            expect(scope.books.length).tobe(4);
         });
 
     });

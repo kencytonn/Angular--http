@@ -1,0 +1,35 @@
+/*A local instance of the API*/
+[
+  {
+    "name": "Kifo Kisimani",
+    "price": 200,
+    "images": "images/cover.jpg",
+    "author": "Ken Walibora",
+    "authordesc": "The author is autistis and .....",
+    "synopsis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque justo turpis, rutrum quis ullamcorper nec, fermentum at ex. Proin pharetra, diam ac convallis commodo, nunc sem efficitur tortor, et ornare odio sem sed ligula. Aliquam sed leo scelerisque, bibendum magna nec, ultricies elit. Quisque aliquam sodales odio, in euismod orci placerat id."
+  },
+  {
+    "name": "Living ",
+    "price": 8000,
+    "images": "images/cover.jpeg",
+    "author": "Ken Walibora",
+    "authordesc": "The author is autistis and .....",
+    "synopsis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque justo turpis, rutrum quis ullamcorper nec, fermentum at ex. Proin pharetra, diam ac convallis commodo, nunc sem efficitur tortor, et ornare odio sem sed ligula. Aliquam sed leo scelerisque, bibendum magna nec, ultricies elit. Quisque aliquam sodales odio, in euismod orci placerat id."
+  },
+  {
+    "name": "Kifo Kisimani",
+    "price": 200,
+    "images": "images/cover.jpg",
+    "author": "Ken Walibora",
+    "authordesc": "The author is autistis and .....",
+    "synopsis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque justo turpis, rutrum quis ullamcorper nec, fermentum at ex. Proin pharetra, diam ac convallis commodo, nunc sem efficitur tortor, et ornare odio sem sed ligula. Aliquam sed leo scelerisque, bibendum magna nec, ultricies elit. Quisque aliquam sodales odio, in euismod orci placerat id."
+  },
+  {
+    "name": "Living",
+    "price": 8000,
+    "images": "images/cover.jpg",
+    "author": "Ken Walibora",
+    "authordesc": "The author is autistis and .....",
+    "synopsis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque justo turpis, rutrum quis ullamcorper nec, fermentum at ex. Proin pharetra, diam ac convallis commodo, nunc sem efficitur tortor, et ornare odio sem sed ligula. Aliquam sed leo scelerisque, bibendum magna nec, ultricies elit. Quisque aliquam sodales odio, in euismod orci placerat id."
+  }
+]

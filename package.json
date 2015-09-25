@@ -1,0 +1,40 @@
+{
+  "name": "angular-validation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "bower": "^1.5.3",
+    "http-server": "^0.6.1",
+    "karma": "^0.12.37",
+    "karma-firefox-launcher": "^0.1.6",
+    "gulp": "^3.9.0",
+    "karma-jasmine": "^0.1.6",
+    "protractor": "^2.2.0",
+    "shelljs": "^0.2.6",
+    "karma-chrome-launcher": "^0.1.12",
+    "tmp": "^0.0.23"
+  },
+  "devDependencies": {
+    "karma": "^0.12.37",
+    "karma-chrome-launcher": "^0.1.12",
+    "karma-jasmine": "^0.1.6",
+    "karma-safari-launcher": "^0.1.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kencytonn/Angular--http.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kencytonn/Angular--http/issues"
+  },
+  "homepage": "https://github.com/kencytonn/Angular--http#readme"
+}
